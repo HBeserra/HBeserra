@@ -13,4 +13,6 @@ C = :heart:++
   Node JS, React
   
 ### Alguns projetos
-- Projeto Atual ⚡ `JukeBOX` - Caixa de som com linux embarcado e controle pelo `spotify connect`   
+- *Projeto Atual* ⚡ `JukeBOX` - Caixa de som com linux embarcado e controle pelo `spotify connect`   
+- :robot: `Medusa`- Robo seguidor de linha ganhador da competição de robotica 2019.2 da `USJT`
+- :seedling: [E-Horta](http://centd.butantan.gov.br/downloads/folder_centd_escola.pdf) - Sistema de monitoramento remoto e automação de hortas de baixo custo. `projeto de pre-iniciação` do ensino medio
