@@ -17,4 +17,4 @@ C = :heart:++
 - :robot: `Medusa`- Robô seguidor de linha ganhador da competição de robótica 2019.2 da `USJT`
 - :seedling: [E-Horta](http://centd.butantan.gov.br/downloads/folder_centd_escola.pdf) - Sistema de monitoramento remoto e automação de hortas de baixo custo. `Projeto de pre-iniciação` do ensino medio
 
-**[Testlabr :rocket: :brazil:](testlabr.com)**
+**[Testlabr :rocket: :brazil:](www.testlabr.com)**
