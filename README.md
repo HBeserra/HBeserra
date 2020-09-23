@@ -8,7 +8,7 @@ C = :heart:++
 - **Microcontroladores e robótica** 
   Arduino, Esp8266, Esp32
 - **Sistemas embarcador** 
-  Raspberry pi, Pine64, embedded Linux , C++, Rust  
+  Raspberry pi, Pine64, embedded Linux , C/C++, Rust  
 - **Aplicações Web**
   Node JS, React
   
