@@ -11,7 +11,8 @@ C = :heart:++
   Raspberry pi, Pine64, embedded Linux , C/C++, Rust  
 - **Aplicações Web**
   Node JS, React
-  
+- **DevOps**
+  Docker, swarm, kubernets  
 ### Alguns projetos
 - **Projeto Atual** ⚡ `JukeBOX` [JukeBOX](https://github.com/HBeserra/JukeBOX) - Caixa de som com linux embarcado e controle pelo `spotify connect`   
 - :robot: `Medusa`- Robô seguidor de linha ganhador da competição de robótica 2019.2 da `USJT`
