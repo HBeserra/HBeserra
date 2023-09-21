@@ -14,7 +14,7 @@ C = :heart:++
 - **DevOps**
   Docker, swarm, kubernets  
 ### Alguns projetos
-- MyPackage :package: - Rastreador de encomendas [my-package.vercel.app](https://my-package.vercel.app/)
+- [MyPackage](https://github.com/HBeserra/MyPackage) :package: - Rastreador de encomendas [my-package.vercel.app](https://my-package.vercel.app/)
 
 - `JukeBOX` [JukeBOX](https://github.com/HBeserra/JukeBOX) - Caixa de som com linux embarcado e controle pelo `spotify connect`   
 - :robot: `Medusa`- Robô seguidor de linha ganhador da competição de robótica 2019.2 da `USJT`
