@@ -5,14 +5,17 @@ Sou Estudante de engenharia da computação na USJT, me interesso em desenvolvim
 C = :heart:++ 
 
 #### Meus interesses 
+- **Aplicações Web**
+  Node JS, React
+- **DevOps**
+  Docker, swarm, kubernets
+
+### Hobbys ###
 - **Microcontroladores e robótica** 
   Arduino, Esp8266, Esp32
 - **Sistemas embarcador** 
   Raspberry pi, Pine64, embedded Linux , C/C++, Rust  
-- **Aplicações Web**
-  Node JS, React
-- **DevOps**
-  Docker, swarm, kubernets  
+
 ### Alguns projetos
 - [MyPackage](https://github.com/HBeserra/MyPackage) :package: - Rastreador de encomendas [my-package.vercel.app](https://my-package.vercel.app/)
 
