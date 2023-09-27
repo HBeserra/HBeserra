@@ -6,7 +6,7 @@ C = :heart:++
 
 #### Meus interesses 
 - **Aplicações Web**
-  Node JS, React
+  Node JS, React, Golang
 - **DevOps**
   Docker, swarm, kubernets
 
