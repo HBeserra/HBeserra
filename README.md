@@ -1,24 +1,20 @@
-### Ola 👋
+# Olá 👋
 
-Atuo como Desenvolvedor em uma empresa de logística com foco em Backend. Tenho graduação em Engenharia da Computação na USJT. Sou campeão do campeonato de robótica da Universidade em 2019. terceiro lugar em 2020 e medalhista de prata na maratona de Programação da USJT 2020.
+Sou um Desenvolvedor Backend em uma empresa de logística, com graduação em Engenharia da Computação pela USJT.
+## Interesses
+- **Aplicações Web**: Golang, Node.js, React
+- **DevOps**: Docker, Kubernetes
 
-#### Meus interesses 
-- **Aplicações Web**
-  Golang, Node JS, React 
-- **DevOps**
-  Docker, kubernets
+## Hobbies
+- **Microcontroladores e Robótica**: Arduino, ESP8266, ESP32
+- **Sistemas Embarcados**: Raspberry Pi, Embedded Linux
 
-### Hobbys ###
-- **Microcontroladores e robótica** 
-  Arduino, Esp8266, Esp32
-- **Sistemas embarcador** 
-  Raspberry pi, embedded Linux  
-
-### Alguns projetos
-- [Wails](https://github.com/HBeserra/Golang-SP-TODO) - Exemplo de `Interface Grafica` em Go com o framework Wails (Apresentado na GolangSP)
+## Projetos
+- [Wails](https://github.com/HBeserra/Golang-SP-TODO) - Exemplo de Interface Gráfica em Go com o framework Wails (Apresentado na GolangSP)
 - [MyPackage](https://github.com/HBeserra/MyPackage) :package: - Rastreador de encomendas [my-package.vercel.app](https://my-package.vercel.app/)
+- [JukeBOX](https://github.com/HBeserra/JukeBOX) - Caixa de som com Linux embarcado e controle pelo Spotify Connect
+- [Medusa](https://github.com/HBeserra/Medusa) :robot: - Robô seguidor de linha ganhador da competição de robótica 2019.2 da USJT
 
-- `JukeBOX` [JukeBOX](https://github.com/HBeserra/JukeBOX) - Caixa de som com linux embarcado e controle pelo `spotify connect`   
-- :robot: `Medusa`- Robô seguidor de linha ganhador da competição de robótica 2019.2 da `USJT`
-
-**[Testlabr :rocket: :brazil:](http://www.hbeserra.dev)**
+## Contato
+- **Website**: [hbeserra.dev](http://www.hbeserra.dev)
+- **LinkedIn**: [linkedin.com/in/hbeserra](https://www.linkedin.com/in/hbeserra)
