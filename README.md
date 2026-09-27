@@ -6,7 +6,7 @@ Gosto de construir backends em Go, automatizar infraestrutura e levar software p
 
 ## 🛠️ Stack
 
-[![Stack](https://skillicons.dev/icons?i=go,ts,nodejs,react,docker,kubernetes,nix,linux,postgres,raspberrypi,arduino)](https://skillicons.dev)
+[![Stack](https://skillicons.dev/icons?i=go,ts,react,docker,kubernetes,nix,linux,postgres,raspberrypi,arduino)](https://skillicons.dev)
 
 - **Backend**: Go, Node.js, NATS, PostgreSQL
 - **Frontend / Desktop**: React, TypeScript, Wails
