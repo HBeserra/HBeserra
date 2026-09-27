@@ -1,6 +1,6 @@
 # Olá, eu sou o Herbert 👋
 
-Desenvolvedor **Golang & DevOps** na **Sacola VIP**, em São Paulo. Engenheiro da Computação formado pela USJT.
+Desenvolvedor **Golang** em São Paulo, formado em Engenharia da Computação pela USJT. Confira meu [LinkedIn](https://www.linkedin.com/in/hbeserra).
 
 Gosto de construir backends em Go, automatizar infraestrutura e levar software para rodar localmente, do desktop ao hardware embarcado.
 
